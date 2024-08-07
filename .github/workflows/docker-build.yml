@@ -4,7 +4,7 @@ on:
   pull_request:
     types: [closed]
     branches:
-      - main  # Ajusta esta rama según sea necesario
+      - main
 
 jobs:
   build:
